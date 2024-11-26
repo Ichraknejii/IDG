@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 c'est un cours Github 
+=======
+c'est un cours de github
+>>>>>>> 7a4d061fe6a171991d3330afdaf15277fcc25311
